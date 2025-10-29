@@ -1,0 +1,253 @@
+{
+    "appid": 1100420,
+    "name": "Praetorians - HD Remaster",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:52:32",
+    "change_number": 29657789,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "1100421": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8885694472865120927",
+                    "size": "1771191662",
+                    "download": "1524668304"
+                },
+                "baseline": {
+                    "gid": "8885694472865120927",
+                    "size": "1771191662",
+                    "download": "1524668304"
+                }
+            },
+            "decryptionkey": "0bf5d9e5b3b90b66565e79587703416c4ef7e6963e026eca850d12b86434d28c"
+        },
+        "1100422": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "80264739671982795",
+                    "size": "87077",
+                    "download": "86224"
+                },
+                "baseline": {
+                    "gid": "80264739671982795",
+                    "size": "87077",
+                    "download": "86224"
+                }
+            },
+            "decryptionkey": "70560ee7acf14561f7c7b228c3bca2e21c027d6e2dc641d343360e77c4be8aa4"
+        },
+        "1100423": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4290894341571915785",
+                    "size": "1361483",
+                    "download": "889600"
+                },
+                "baseline": {
+                    "gid": "4290894341571915785",
+                    "size": "1361483",
+                    "download": "889600"
+                }
+            },
+            "decryptionkey": "f172d3dfcc9877af8d3f669f6092412eee4a1de39d1710e62605e56e5af1395b"
+        },
+        "1100424": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1597005920257949354",
+                    "size": "1372780",
+                    "download": "882304"
+                },
+                "baseline": {
+                    "gid": "1597005920257949354",
+                    "size": "1372780",
+                    "download": "882304"
+                }
+            },
+            "decryptionkey": "c925cc28e4349ef8dfe52281f2a6f65b83a165c88351dff90eab36a26bcb6a2b"
+        },
+        "1100425": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8990691376686846842",
+                    "size": "1670759",
+                    "download": "1147152"
+                },
+                "baseline": {
+                    "gid": "8990691376686846842",
+                    "size": "1670759",
+                    "download": "1147152"
+                }
+            },
+            "decryptionkey": "722be4d0f62e4f225c870b09467ad8c28746e12eabff81a9c4a0a939effdabda"
+        },
+        "1100426": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6131687230662555782",
+                    "size": "1725826",
+                    "download": "1192800"
+                },
+                "baseline": {
+                    "gid": "6131687230662555782",
+                    "size": "1725826",
+                    "download": "1192800"
+                }
+            },
+            "decryptionkey": "4cb5f7b51d0e208005feb2ec17258d9dcc2b1fa5b0ad0917957493a599e1ed38"
+        },
+        "1100427": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2812950249676774342",
+                    "size": "70695",
+                    "download": "69968"
+                },
+                "baseline": {
+                    "gid": "2812950249676774342",
+                    "size": "70695",
+                    "download": "69968"
+                }
+            },
+            "decryptionkey": "a4b4ffe1c42517d935cb564902746dae03d36a0faa0b2be1c19158d0197ed7ad"
+        },
+        "1100428": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "862207878055768855",
+                    "size": "67418",
+                    "download": "66736"
+                },
+                "baseline": {
+                    "gid": "862207878055768855",
+                    "size": "67418",
+                    "download": "66736"
+                }
+            },
+            "decryptionkey": "c5532297958702644769c5f04330d912fd27351beb378e2956b170a82dbaaf64"
+        },
+        "1100429": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8079485870530178717",
+                    "size": "87924",
+                    "download": "87552"
+                },
+                "baseline": {
+                    "gid": "8079485870530178717",
+                    "size": "87924",
+                    "download": "87552"
+                }
+            },
+            "decryptionkey": "9afafa6b97682e56e646f5e3ea7ed22b5e7ba7a2363b042a9fbd5f9c11bd65ac"
+        },
+        "1191750": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7770027068690006044",
+                    "size": "76078",
+                    "download": "75552"
+                },
+                "baseline": {
+                    "gid": "7770027068690006044",
+                    "size": "76078",
+                    "download": "75552"
+                }
+            },
+            "decryptionkey": "a041282d99ce5a0186a459a36fcf9d0244add2e73b2d6e8da41dfd9b97b43568"
+        },
+        "1191751": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4832114147118308158",
+                    "size": "82348",
+                    "download": "81408"
+                },
+                "baseline": {
+                    "gid": "4832114147118308158",
+                    "size": "82348",
+                    "download": "81408"
+                }
+            },
+            "decryptionkey": "24d3ef3c90ce0f8a2754700eb715b0692546d0ef28068337406a99c4c2754104"
+        },
+        "1191752": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4914528340828332388",
+                    "size": "92584",
+                    "download": "92464"
+                },
+                "baseline": {
+                    "gid": "4914528340828332388",
+                    "size": "92584",
+                    "download": "92464"
+                }
+            },
+            "decryptionkey": "2795fcae0704c9cb8236e6ca3313bb0b8ff2a4f7c4d3c42e1514a5d7c646ab41"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5083370",
+                "timeupdated": "1591693906"
+            },
+            "baseline": {
+                "buildid": "5083370",
+                "timeupdated": "1597227452"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
