@@ -1,0 +1,55 @@
+{
+    "appid": 1054490,
+    "name": "Wingspan",
+    "type": "Game",
+    "schinese_name": "WINGSPAN (展翅翱翔)",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:06:32",
+    "change_number": 30206833,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1054491": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8363764347411909073",
+                    "size": "2322843830",
+                    "download": "1853313168"
+                }
+            },
+            "decryptionkey": "347a8b113d88977a6ec7e417992bfd7cfbf382b1d9714b52aa70e230797321b0"
+        },
+        "1054492": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3773075724699589943",
+                    "size": "2333888093",
+                    "download": "1867063392"
+                }
+            },
+            "decryptionkey": "9119cbd5d0bd0c15a1ffd03638a0c9d265e8156f2d30736abd0741a41df186bf"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "19244498",
+                "timeupdated": "1752674475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
