@@ -1,0 +1,35 @@
+{
+    "appid": 1123830,
+    "name": "Farm Manager 2021",
+    "type": "Game",
+    "schinese_name": "农场经理2021",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 14:39:42",
+    "change_number": 30187022,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1123831": {
+            "manifests": {
+                "public": {
+                    "gid": "4265919184913621164",
+                    "size": "6473921630",
+                    "download": "3360143824"
+                }
+            },
+            "decryptionkey": "5da5856d56413eaf4fad6261fd4f9303892bae6d3cca1762a62cf737c7980c33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19315444",
+                "timeupdated": "1753191578"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
