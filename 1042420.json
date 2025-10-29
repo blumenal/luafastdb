@@ -1,0 +1,88 @@
+{
+    "appid": 1042420,
+    "name": "DayZ Experimental Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 12:59:54",
+    "change_number": 30109848,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1042421": {
+            "manifests": {
+                "public": {
+                    "gid": "6357980573811781558",
+                    "size": "3619424295",
+                    "download": "1271746896"
+                }
+            },
+            "decryptionkey": "f4596b432b405afdbbb09e42aa7bd3f96ae6494881a0cea19d23b7b35e74ee77"
+        },
+        "1042422": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7050149766291313296",
+                    "size": "80669632",
+                    "download": "26071728"
+                }
+            },
+            "decryptionkey": "c12b4ec6ef456e1185dbc6ff68429ddd09837bd4bf5f14927952833fb7f2f7f8"
+        },
+        "1042423": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3538746250653654474",
+                    "size": "42036736",
+                    "download": "14344736"
+                }
+            },
+            "decryptionkey": "19bd5536221757549f30bf24e346ee7c68529e3554522c6d12d45e102a6f61bc"
+        },
+        "1042424": {
+            "manifests": {
+                "public": {
+                    "gid": "924823429030364372",
+                    "size": "303102947",
+                    "download": "11664128"
+                }
+            },
+            "decryptionkey": "b869b62f6255017c325a1e5bfc1331919a5441fa698e973cf6af5384f6ac86a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19247622",
+                "timeupdated": "1752753590"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 17992021477104770145
+}
