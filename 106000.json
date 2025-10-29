@@ -1,0 +1,119 @@
+{
+    "appid": "106000",
+    "type": "Game",
+    "name": "The Cursed Crusade",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970052",
+    "update_time": "2025-05-14 07:27:45",
+    "depot": {
+        "106001": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7294158800040793812",
+                    "size": "8877978988",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ccfc131c2a001386ecb00443dd0b536497f87cc2a8e5cbae260431f0c95d3649"
+        },
+        "106002": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2513665987946291222",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4b27488d10b86c391c9d3ab43b30ca1fb5515c6beb225d8cdf33eca74808503d"
+        },
+        "106003": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1628302847614672697",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "621395828d6befa57e0c69e18cb9ceb78b0b4d906517659e502e13707fec0c50"
+        },
+        "106004": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4244219973547675204",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9033e5d6a41d8882321574c9c99aaa992a620663d4b28ccd3d8ab6f569c61633"
+        },
+        "106005": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5043377758917296280",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d8f120257b9bae82aa5f19eb21776dd9a00b588851694859cbaa728d9100eb6c"
+        },
+        "106006": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7404540694905731825",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1c0a9cbdd1e783eb600c7b32206123d6485595e58a8f4b1ea4e7e9e4a8e22368"
+        },
+        "106007": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7890932442674779022",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ac3c27afc0a824c99ae394d51d7504f8bf2732894dfc1dabc761c6c7cbd84351"
+        },
+        "106008": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6394173778816383278",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "389110b24bf6358ab00bd157e4b6c9a6f0ae34ee291bb9ad395df2bfb4ebb06b"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "25880"
+            }
+        }
+    }
+}
