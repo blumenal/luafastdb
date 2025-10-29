@@ -1,0 +1,71 @@
+{
+    "appid": 1035320,
+    "name": "MarineVerse Sailing Club",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:14:08",
+    "change_number": 30219024,
+    "depot": {
+        "1035321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5225658442671060143",
+                    "size": "11141033463",
+                    "download": "7172542752"
+                },
+                "beta": {
+                    "gid": "5225658442671060143",
+                    "size": "11141033463",
+                    "download": "7172542752"
+                },
+                "stable": {
+                    "gid": "7837676570977368941",
+                    "size": "11138587042",
+                    "download": "7168953136"
+                }
+            },
+            "decryptionkey": "be62478ea02f3ca850f8323d18723ea8c21215ce36ab97f3bafd18374b5c94a2"
+        },
+        "1035322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3363455387897158203",
+                    "size": "3254945449",
+                    "download": "2010606800"
+                },
+                "beta": {
+                    "gid": "3363455387897158203",
+                    "size": "3254945449",
+                    "download": "2010606800"
+                },
+                "stable": {
+                    "gid": "3363455387897158203",
+                    "size": "3254945449",
+                    "download": "2010606800"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19295724",
+                "timeupdated": "1753082778"
+            },
+            "beta": {
+                "buildid": "19295724",
+                "timeupdated": "1753082752"
+            },
+            "stable": {
+                "buildid": "19209448",
+                "timeupdated": "1752450724"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
