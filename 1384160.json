@@ -1,0 +1,47 @@
+{
+    "appid": 1384160,
+    "name": "GUILTY GEAR -STRIVE-",
+    "type": "Game",
+    "schinese_name": "罪恶装备 -奋战-",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 08:01:50",
+    "change_number": 30180806,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1384161": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4436027852223900850",
+                    "size": "30848571026",
+                    "download": "29424235328"
+                }
+            },
+            "decryptionkey": "6a00a68034e78cffd8a0e7bb055e336446bf6b732c3605b5c96b73cffa5b3ecd"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18896106",
+                "timeupdated": "1750749564"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
