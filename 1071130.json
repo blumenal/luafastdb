@@ -1,0 +1,60 @@
+{
+    "appid": "1071130",
+    "type": "Game",
+    "name": "The Procession to Calvary",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983678",
+    "update_time": "2025-05-14 23:07:46",
+    "depot": {
+        "1071131": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7588385589871578521",
+                    "size": "1441749312",
+                    "download": "459537392"
+                }
+            },
+            "decryptionkey": "a914fbb852ac9ad17a6936c8b3bf2c068aae9fb9a3352d20ecae59d53eae9367"
+        },
+        "1071132": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2096126936384225841",
+                    "size": "1443801838",
+                    "download": "460703920"
+                }
+            },
+            "decryptionkey": "51736626a9de23111db0bc801691553d474aa0772c379eff66856ed09dc0c943"
+        },
+        "1071133": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1288284947928359640",
+                    "size": "1451458089",
+                    "download": "460613568"
+                }
+            },
+            "decryptionkey": "282c8b590b7ed3ff94e9917d470ff9d5625b0e6d17976609c5b0b441ee1039bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8410151",
+                "timeupdated": "1647873232"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
