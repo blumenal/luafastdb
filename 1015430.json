@@ -1,0 +1,74 @@
+{
+    "appid": 1015430,
+    "name": "The Dead Tree of Ranchiuna",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 00:14:10",
+    "change_number": 29805816,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1015431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "818859090187899060",
+                    "size": "7945002969",
+                    "download": "7735912864"
+                },
+                "test": {
+                    "gid": "818859090187899060",
+                    "size": "7945002969",
+                    "download": "7735912864"
+                }
+            },
+            "decryptionkey": "0cdf13134af24377289d91b832b2706352c40a7df3a7e4cc9985acde654e8058"
+        },
+        "1015432": {
+            "config": {
+                "osarch": "64"
+            },
+            "dlcappid": "1015600",
+            "manifests": {
+                "public": {
+                    "gid": "6117388131804144670",
+                    "size": "87418625",
+                    "download": "72423616"
+                },
+                "test": {
+                    "gid": "6117388131804144670",
+                    "size": "87418625",
+                    "download": "72423616"
+                }
+            },
+            "decryptionkey": "b4e6405c1d689df2dd6758ffc08ea985ec93c5eab6d43e3427a32c7c9da62f69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11737271",
+                "timeupdated": "1689768546"
+            },
+            "test": {
+                "buildid": "11737271",
+                "timeupdated": "1689768147"
+            }
+        }
+    }
+}
