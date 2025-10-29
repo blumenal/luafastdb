@@ -1,0 +1,43 @@
+{
+    "appid": 1044110,
+    "name": "Reforged Tower Defense",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 06:35:06",
+    "change_number": 30199985,
+    "depot": {
+        "1044112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6434593797589558871",
+                    "size": "13598189231",
+                    "download": "3400668528"
+                },
+                "rtd_pte": {
+                    "gid": "1612492469339941133",
+                    "size": "13414113698",
+                    "download": "3416665440"
+                }
+            },
+            "decryptionkey": "7290c219b7990afbc69b7b5107cfcdfa1d3b4c084c9aa034620f1d2b23409901"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18089051",
+                "timeupdated": "1744550451"
+            },
+            "rtd_pte": {
+                "buildid": "19319347",
+                "description": "Public Test Environment",
+                "timeupdated": "1753248901"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
