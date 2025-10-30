@@ -1,0 +1,33 @@
+{
+    "appid": 1094780,
+    "name": "Fisher Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 13:10:33",
+    "change_number": 30131027,
+    "depot": {
+        "workshopdepot": "1094780",
+        "1094781": {
+            "manifests": {
+                "public": {
+                    "gid": "7016454603779503810",
+                    "size": "29730706499",
+                    "download": "24918733424"
+                }
+            },
+            "decryptionkey": "4bb3628dc1eb56e6e42becfe2801675a4102c378dcf1941b150fd58c9bb84bd9"
+        },
+        "1420500": {
+            "dlcappid": "1420500"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19272857",
+                "timeupdated": "1752832675"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a602e7add7705c1ccd13fddf271696bd872eb5bd8eb2ab4cff20ccdbb0b867eb"
+    }
+}
