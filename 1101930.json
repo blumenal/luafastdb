@@ -1,0 +1,121 @@
+{
+    "appid": 1101930,
+    "name": "Monsters of Little Haven",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 17:10:41",
+    "change_number": 30072118,
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1101931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5008157128098663905",
+                    "size": "428298058",
+                    "download": "322185152"
+                }
+            },
+            "decryptionkey": "61b5387b1490b36f09619d7dbec1c88b597febd0252ee85f29ccf9ca573bc916"
+        },
+        "1101932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5316192223117956546",
+                    "size": "274777182",
+                    "download": "269599296"
+                }
+            },
+            "decryptionkey": "a79fa97da66ba20021607261aad700efff8dd43c6d6ee917fee38902a37261e4"
+        },
+        "1101934": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4753873163347700152",
+                    "size": "187307897",
+                    "download": "55997088"
+                }
+            },
+            "decryptionkey": "fb5ef9b4bf7af3821869b2b89476c5e11983a7c68583c048ebe7bcac061539ce"
+        },
+        "1101933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6628052766915436055",
+                    "size": "454149588",
+                    "download": "321320608"
+                }
+            },
+            "decryptionkey": "62ee8e4b1d688e94aff229c8606c2444b343db3f9b6d65ff5291a41f4c2478e5"
+        },
+        "1124441": {
+            "manifests": {
+                "public": {
+                    "gid": "1983503336427403229",
+                    "size": "111403116",
+                    "download": "97152704"
+                }
+            },
+            "dlcappid": "1124441",
+            "config": {
+                "optionaldlc": "1124441"
+            },
+            "decryptionkey": "321de686c8a4199d8def95b32ccface2935d15958920b32e001b73f054391c7e"
+        },
+        "1124440": {
+            "manifests": {
+                "public": {
+                    "gid": "7117732365607507887",
+                    "size": "94114807",
+                    "download": "93562368"
+                }
+            },
+            "dlcappid": "1124440",
+            "config": {
+                "optionaldlc": "1124440"
+            },
+            "decryptionkey": "b1b70b769b434c6985f386f8a3c5c838365d77c8595dd204a9cbba3534b58075"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17908586",
+                "timeupdated": "1743240518"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
