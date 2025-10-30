@@ -1,0 +1,51 @@
+{
+    "appid": 1090250,
+    "name": "Crunch Element",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 19:51:14",
+    "change_number": 30156948,
+    "depot": {
+        "1090251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5262819401477911032",
+                    "size": "6799905319",
+                    "download": "2058780304"
+                },
+                "experimental": {
+                    "gid": "5262819401477911032",
+                    "size": "6799905319",
+                    "download": "2058780304"
+                },
+                "legacy": {
+                    "gid": "6568331983791181541",
+                    "size": "3340844826",
+                    "download": "807378848"
+                }
+            },
+            "decryptionkey": "fb2d64153fd2c15477f5180013ccdb688ec4728a362ed33fc7c6bda9b1302f65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19019309",
+                "timeupdated": "1751010535"
+            },
+            "experimental": {
+                "buildid": "19019309",
+                "description": "Experimental updates actively in development for feedback and testing.",
+                "timeupdated": "1750989033"
+            },
+            "legacy": {
+                "buildid": "9723622",
+                "description": "This branch contains the original version of Crunch Element before the overhaul update. It includes the old mission system, visuals, and mechanics. No longer supported, but preserved for nostalgic or experimental play.",
+                "timeupdated": "1750783865"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
