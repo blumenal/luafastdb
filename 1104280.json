@@ -1,0 +1,46 @@
+{
+    "appid": 1104280,
+    "name": "The Slormancer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 10:09:37",
+    "change_number": 30163653,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1104281": {
+            "manifests": {
+                "public": {
+                    "gid": "8464868553383165664",
+                    "size": "496725766",
+                    "download": "292955424"
+                },
+                "experimental": {
+                    "gid": "8464868553383165664",
+                    "size": "496725766",
+                    "download": "292955424"
+                }
+            },
+            "decryptionkey": "b118bf751695ef5b6f48a3daa0537e23dee2158285fd025252aa697b993f249c"
+        },
+        "baselanguages": "english,french,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "19200951",
+                "timeupdated": "1753088972"
+            },
+            "experimental": {
+                "buildid": "19200951",
+                "description": "Testing branch",
+                "timeupdated": "1752320632"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
